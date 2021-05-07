@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* inizio main */
 body{
     background-color: black;
     color: white;
@@ -41,3 +42,7 @@ position: relative;
 main{
     height: calc(100vh - 150px);
 }
+/* fine main */
+
+/* footer */
+
