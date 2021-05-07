@@ -19,6 +19,8 @@ header button{
     display: flex;
     flex-wrap: wrap;
     overflow: auto;
+    height: 100%;
+    justify-content: center;
 }
 .utente{
 width:calc(100% / 6);
